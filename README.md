@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/KushagraBhargava26/LeetCode/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KushagraBhargava26/LeetCode/tree/master/0258-add-digits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
