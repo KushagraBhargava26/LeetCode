@@ -6,12 +6,12 @@ public:
             return false;
         }
 
-        long long int sum = 0;
+        int sum = 0;
         int num = x;
 
         while(num != 0){
             int digit = num % 10;
-            sum = (sum * 10) + digit;
+            sum = (1ll * sum * 10) + digit;
             num = num / 10;
         }
 
