@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/KushagraBhargava26/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/KushagraBhargava26/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KushagraBhargava26/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/KushagraBhargava26/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/KushagraBhargava26/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0509-fibonacci-number) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KushagraBhargava26/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Binary Search
@@ -102,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/KushagraBhargava26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KushagraBhargava26/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
