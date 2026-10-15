@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KushagraBhargava26/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/KushagraBhargava26/LeetCode/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KushagraBhargava26/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
