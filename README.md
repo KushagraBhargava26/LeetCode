@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/KushagraBhargava26/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/KushagraBhargava26/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0344-reverse-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KushagraBhargava26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KushagraBhargava26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KushagraBhargava26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Binary Search
 |  |
