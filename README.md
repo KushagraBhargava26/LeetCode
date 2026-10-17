@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/KushagraBhargava26/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/KushagraBhargava26/LeetCode/tree/master/0279-perfect-squares) |
 | [0507-perfect-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0509-fibonacci-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KushagraBhargava26/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/KushagraBhargava26/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/KushagraBhargava26/LeetCode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -116,4 +118,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0202-happy-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KushagraBhargava26/LeetCode/tree/master/0279-perfect-squares) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KushagraBhargava26/LeetCode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KushagraBhargava26/LeetCode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
