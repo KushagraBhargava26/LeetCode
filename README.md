@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/KushagraBhargava26/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/KushagraBhargava26/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/KushagraBhargava26/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/KushagraBhargava26/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KushagraBhargava26/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0344-reverse-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KushagraBhargava26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KushagraBhargava26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/KushagraBhargava26/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/KushagraBhargava26/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KushagraBhargava26/LeetCode/tree/master/0290-word-pattern) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KushagraBhargava26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/KushagraBhargava26/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/KushagraBhargava26/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
