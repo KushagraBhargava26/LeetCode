@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KushagraBhargava26/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/KushagraBhargava26/LeetCode/tree/master/0724-find-pivot-index) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KushagraBhargava26/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Two Pointers
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KushagraBhargava26/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/KushagraBhargava26/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/KushagraBhargava26/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
