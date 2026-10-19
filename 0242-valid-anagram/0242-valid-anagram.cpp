@@ -4,14 +4,9 @@ public:
         sort(s.begin(),s.end());
         sort(t.begin(),t.end());
 
-        if(s.length() < t.length() || s.length() > t.length()){
+        if(s.length() != t.length()){
             return false;
         }
-        for(int i = 0; i < s.length(); i++){
-            if(s[i] != t[i]){
-                return false;
-            }
-        }
-        return true;
+        return s == t;
     }
 };
