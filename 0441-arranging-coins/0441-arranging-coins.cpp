@@ -1,8 +1,8 @@
 class Solution {
 public:
     int arrangeCoins(int n) {
-        int left = 1;
-        int right = n;
+        long left = 1;
+        long right = n;
 
         while(left <= right){
             long mid = left + (right - left) / 2;
