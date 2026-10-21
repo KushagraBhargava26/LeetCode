@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/KushagraBhargava26/LeetCode/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/KushagraBhargava26/LeetCode/tree/master/0724-find-pivot-index) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KushagraBhargava26/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KushagraBhargava26/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KushagraBhargava26/LeetCode/tree/master/0290-word-pattern) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KushagraBhargava26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Binary Search
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Matrix
 |  |
