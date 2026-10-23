@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/KushagraBhargava26/LeetCode/tree/master/0724-find-pivot-index) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KushagraBhargava26/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KushagraBhargava26/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/KushagraBhargava26/LeetCode/tree/master/0441-arranging-coins) |
+| [1539-kth-missing-positive-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
