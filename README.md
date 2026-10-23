@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KushagraBhargava26/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KushagraBhargava26/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KushagraBhargava26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KushagraBhargava26/LeetCode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
