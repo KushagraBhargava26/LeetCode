@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KushagraBhargava26/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/KushagraBhargava26/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KushagraBhargava26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KushagraBhargava26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KushagraBhargava26/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/KushagraBhargava26/LeetCode/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KushagraBhargava26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KushagraBhargava26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/KushagraBhargava26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/KushagraBhargava26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
