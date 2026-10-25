@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/KushagraBhargava26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/KushagraBhargava26/LeetCode/tree/master/0796-rotate-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KushagraBhargava26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2351-first-letter-to-appear-twice](https://github.com/KushagraBhargava26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KushagraBhargava26/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/KushagraBhargava26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/KushagraBhargava26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/KushagraBhargava26/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/KushagraBhargava26/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
 |  |
 | ------- |
