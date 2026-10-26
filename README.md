@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/KushagraBhargava26/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/KushagraBhargava26/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/KushagraBhargava26/LeetCode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/KushagraBhargava26/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KushagraBhargava26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KushagraBhargava26/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KushagraBhargava26/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/KushagraBhargava26/LeetCode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KushagraBhargava26/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Number Theory
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/KushagraBhargava26/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/KushagraBhargava26/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/KushagraBhargava26/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Floyd's Cycle Finding Algorithm
