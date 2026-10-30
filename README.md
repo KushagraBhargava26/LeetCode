@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/KushagraBhargava26/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/KushagraBhargava26/LeetCode/tree/master/0279-perfect-squares) |
+| [0367-valid-perfect-square](https://github.com/KushagraBhargava26/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/KushagraBhargava26/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0509-fibonacci-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KushagraBhargava26/LeetCode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/KushagraBhargava26/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/KushagraBhargava26/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/KushagraBhargava26/LeetCode/tree/master/0441-arranging-coins) |
 | [1539-kth-missing-positive-number](https://github.com/KushagraBhargava26/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/KushagraBhargava26/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
